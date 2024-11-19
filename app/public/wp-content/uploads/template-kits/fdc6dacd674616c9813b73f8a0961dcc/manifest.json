@@ -1,0 +1,1505 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Music Festival",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5-pro.jpg",
+            "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Schedule 1",
+            "screenshot": "screenshots\/schedule-1.jpg",
+            "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Schedule 2",
+            "screenshot": "screenshots\/schedule-2-pro.jpg",
+            "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Lineup 2",
+            "screenshot": "screenshots\/lineup-2-pro.jpg",
+            "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Lineup 1",
+            "screenshot": "screenshots\/lineup-1.jpg",
+            "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tickets 1",
+            "screenshot": "screenshots\/tickets-1-pro.jpg",
+            "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tickets 2",
+            "screenshot": "screenshots\/tickets-2.jpg",
+            "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Photo & Video",
+            "screenshot": "screenshots\/photo-video.jpg",
+            "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Guide",
+            "screenshot": "screenshots\/guide.jpg",
+            "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Location & Venue 2",
+            "screenshot": "screenshots\/location-venue-2-pro.jpg",
+            "source": "templates\/location-venue-2-5d7f6cb807f23f67564c1fcf054fe5f0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-32e46022c366d1be5d775515b2a9f604.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "danny-howe-365401-unsplash-e1545141956624.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/danny-howe-365401-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 195805,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "pexels-photo-1081694.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1081694-500x616.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                }
+            ],
+            "filesize": 686368,
+            "dimensions": [
+                1920,
+                2367
+            ]
+        },
+        {
+            "filename": "pexels-photo-1370545.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1370545-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/location-venue-2-5d7f6cb807f23f67564c1fcf054fe5f0.json",
+                    "name": "Location & Venue 2"
+                }
+            ],
+            "filesize": 265055,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "soren-astrup-jorgensen-133814-unsplash-e1545141906850.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/soren-astrup-jorgensen-133814-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 177431,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "alfonso-scarpa-530923-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/alfonso-scarpa-530923-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 178859,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "matty-adame-274356-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/matty-adame-274356-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                }
+            ],
+            "filesize": 542558,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "redd-angelo-393003-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/redd-angelo-393003-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                }
+            ],
+            "filesize": 511089,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "thomas-habr-195107-unsplash-e1545914651641.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/thomas-habr-195107-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 227992,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "redd-angelo-393010-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/redd-angelo-393010-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                }
+            ],
+            "filesize": 565612,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "hanny-naibaho-388579-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/hanny-naibaho-388579-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 626997,
+            "dimensions": [
+                2560,
+                1707
+            ]
+        },
+        {
+            "filename": "gbarkz-489384-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/gbarkz-489384-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 539573,
+            "dimensions": [
+                2560,
+                1704
+            ]
+        },
+        {
+            "filename": "pexels-photo-1545499.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1545499-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                },
+                {
+                    "source": "templates\/location-venue-2-5d7f6cb807f23f67564c1fcf054fe5f0.json",
+                    "name": "Location & Venue 2"
+                }
+            ],
+            "filesize": 422872,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "pexels-photo-1450361.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1450361-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/location-venue-2-5d7f6cb807f23f67564c1fcf054fe5f0.json",
+                    "name": "Location & Venue 2"
+                }
+            ],
+            "filesize": 215384,
+            "dimensions": [
+                1280,
+                854
+            ]
+        },
+        {
+            "filename": "ipad-map-tablet-internet-38271.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/ipad-map-tablet-internet-38271-500x332.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                },
+                {
+                    "source": "templates\/location-venue-2-5d7f6cb807f23f67564c1fcf054fe5f0.json",
+                    "name": "Location & Venue 2"
+                }
+            ],
+            "filesize": 193736,
+            "dimensions": [
+                1280,
+                850
+            ]
+        },
+        {
+            "filename": "samuel-zeller-103111-unsplash-e1545141815917.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/samuel-zeller-103111-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 257106,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "alexander-popov-522100-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/alexander-popov-522100-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 422954,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-1587927.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1587927-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 149227,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "alex-wong-31476-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/alex-wong-31476-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 573704,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-109358.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-109358-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 513904,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-1081685.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1081685-500x549.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                },
+                {
+                    "source": "templates\/popup-32e46022c366d1be5d775515b2a9f604.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 364433,
+            "dimensions": [
+                1920,
+                2109
+            ]
+        },
+        {
+            "filename": "maxime-lebrun-698791-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/maxime-lebrun-698791-unsplash-500x309.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 1270515,
+            "dimensions": [
+                2560,
+                1584
+            ]
+        },
+        {
+            "filename": "david-calderon-973699-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/david-calderon-973699-unsplash-500x307.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 323176,
+            "dimensions": [
+                2560,
+                1572
+            ]
+        },
+        {
+            "filename": "accom-w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/accom-w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 3132,
+            "dimensions": [
+                50,
+                50
+            ]
+        },
+        {
+            "filename": "food-w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/food-w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 3014,
+            "dimensions": [
+                50,
+                50
+            ]
+        },
+        {
+            "filename": "location-w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/location-w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 3029,
+            "dimensions": [
+                50,
+                50
+            ]
+        },
+        {
+            "filename": "michael-benz-232499-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/michael-benz-232499-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 568687,
+            "dimensions": [
+                2560,
+                1707
+            ]
+        },
+        {
+            "filename": "transportation-w.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/transportation-w.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-21bea86a5e4e773a9af8ea3a43438629.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 3018,
+            "dimensions": [
+                50,
+                50
+            ]
+        },
+        {
+            "filename": "pexels-photo-1081685-reversed.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1081685-reversed-500x273.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                }
+            ],
+            "filesize": 275884,
+            "dimensions": [
+                1920,
+                1050
+            ]
+        },
+        {
+            "filename": "pexels-photo-274406.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-274406-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-560e01584e12fbc3390ac1e1041d0670.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                }
+            ],
+            "filesize": 139566,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-1652353.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1652353-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/location-venue-2-5d7f6cb807f23f67564c1fcf054fe5f0.json",
+                    "name": "Location & Venue 2"
+                }
+            ],
+            "filesize": 266199,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "goashape-61244-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/goashape-61244-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 807147,
+            "dimensions": [
+                2560,
+                1707
+            ]
+        },
+        {
+            "filename": "shubham-sharma-224917-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/shubham-sharma-224917-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 524561,
+            "dimensions": [
+                2560,
+                1707
+            ]
+        },
+        {
+            "filename": "joshua-fuller-368384-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/joshua-fuller-368384-unsplash-500x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/schedule-1-303853c0e13e7548d4523dd0a6d819e3.json",
+                    "name": "Schedule 1"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                }
+            ],
+            "filesize": 831211,
+            "dimensions": [
+                1920,
+                2388
+            ]
+        },
+        {
+            "filename": "marcela-laskoski-118684-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/marcela-laskoski-118684-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                }
+            ],
+            "filesize": 213558,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "melissa-mjoen-393641-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/melissa-mjoen-393641-unsplash-500x759.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-3ba33ae71409346832a552f8c8052da1.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                }
+            ],
+            "filesize": 1330872,
+            "dimensions": [
+                1920,
+                2916
+            ]
+        },
+        {
+            "filename": "kate-rowe-240285-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/kate-rowe-240285-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-09de2a2f9bb13dbc92f68d63fb5d3ece.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 1376805,
+            "dimensions": [
+                1980,
+                1980
+            ]
+        },
+        {
+            "filename": "kyle-gregory-devaras-241280-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/kyle-gregory-devaras-241280-unsplash-500x360.jpg",
+            "templates": [
+                {
+                    "source": "templates\/schedule-2-671f745ebdd775f718d74d8846d5cd09.json",
+                    "name": "Schedule 2"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                }
+            ],
+            "filesize": 544914,
+            "dimensions": [
+                1920,
+                1384
+            ]
+        },
+        {
+            "filename": "pexels-photo-1424981.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1424981-500x612.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/lineup-2-24ca198e99eb2bbdadab4f8c3b817d37.json",
+                    "name": "Lineup 2"
+                },
+                {
+                    "source": "templates\/photo-video-d0d44e2fad32448ea3f6e3291cb397b4.json",
+                    "name": "Photo & Video"
+                },
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 498292,
+            "dimensions": [
+                1920,
+                2351
+            ]
+        },
+        {
+            "filename": "alex-wong-31476-unsplash-blue.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/alex-wong-31476-unsplash-blue-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                },
+                {
+                    "source": "templates\/tickets-1-2260531f7405c8f4fcd3571e40a4826f.json",
+                    "name": "Tickets 1"
+                },
+                {
+                    "source": "templates\/tickets-2-06c9a323233d4b35f9057d482109ff12.json",
+                    "name": "Tickets 2"
+                }
+            ],
+            "filesize": 538534,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "xandro-vandewalle-454419-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/xandro-vandewalle-454419-unsplash-500x376.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lineup-1-3f30e5209b1ce4f605d7c49b98d1436b.json",
+                    "name": "Lineup 1"
+                }
+            ],
+            "filesize": 440159,
+            "dimensions": [
+                1920,
+                1442
+            ]
+        },
+        {
+            "filename": "pexels-photo-1046477.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/pexels-photo-1046477-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/guide-f84ddb08e16921960ec0625ec64b7b0e.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 228999,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "danny-howe-762860-unsplash-e1545141942831.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-114\/wp-content\/uploads\/sites\/117\/2018\/12\/danny-howe-762860-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-47523892c30938345d7db2aae2da46ed.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 429059,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        }
+    ]
+}

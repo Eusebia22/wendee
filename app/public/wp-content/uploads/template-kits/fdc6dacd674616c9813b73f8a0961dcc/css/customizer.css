@@ -1,0 +1,15 @@
+.envato-kit-114-toggle .elementor-toggle,
+.envato-kit-114-toggle .elementor-toggle-icon{
+	text-align: center !important;
+	float: none !important;
+	
+}
+.envato-kit-114-toggle .elementor-toggle{
+	border: 1px solid #FFF;
+	border-radius: 30px;
+	padding: 5px;
+	transition: all ease-in-out .3s;
+}
+.envato-kit-114-toggle .elementor-toggle:hover{
+	opacity: .8;
+}
